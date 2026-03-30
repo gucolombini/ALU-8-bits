@@ -10,11 +10,11 @@ Inclui o arquivo do circuito da ALU principal, assim como todos os componentes u
 ## Operações
 | OP | Operação |
 |--- |---       |
-| 1  | AC + N   |
-| 2  | AC - N   |
-| 3  | AC * N   |
-| 4  | AC / N   |
-| 5  | AC shift lógico esquerda |
-| 6  | AC shift lógico direita |
-| 7  | AC NAND N|
-| 8  | AC XOR N |
+| 0  | AC + N   |
+| 1  | AC - N   |
+| 2  | AC * N   |
+| 3  | AC / N   |
+| 4  | AC shift lógico esquerda |
+| 5  | AC shift lógico direita |
+| 6  | AC NAND N|
+| 7  | AC XOR N |
