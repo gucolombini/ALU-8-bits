@@ -7,12 +7,14 @@ Construída no [Digital](https://github.com/hneemann/digital)
 
 Inclui o arquivo do circuito da ALU principal, assim como todos os componentes utilizados para constituir ela.
 
-Operações:
-- OP = 1: AC + N
-- OP = 2: AC - N
-- OP = 3: AC * N
-- OP = 4: AC / N
-- OP = 5: AC shift lógico esquerda
-- OP = 6: AC shift lógico direita
-- OP = 7: AC NAND N
-- OP = 8: AC XOR N
+## Operações
+| OP | Operação |
+|--- |---       |
+| 1  | AC + N   |
+| 2  | AC - N   |
+| 3  | AC * N   |
+| 4  | AC / N   |
+| 5  | AC shift lógico esquerda |
+| 6  | AC shift lógico direita |
+| 7  | AC NAND N|
+| 8  | AC XOR N |
